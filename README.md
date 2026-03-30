@@ -7,6 +7,8 @@ Insignia **device authorization** for the **Original Xbox**: show a **user code*
 
 ---NOTE THIS IS AN UNOFFICIAL LOGIN MOD NOT CREATED BY THE INSIGNIA TEAM.
 
+<img width="1320" height="2868" alt="IMG_1476111" src="https://github.com/user-attachments/assets/a760bd10-dada-4844-8d9d-f7535364b0dc" />
+
 ## What’s in this repo
 
 | Area | Purpose |
