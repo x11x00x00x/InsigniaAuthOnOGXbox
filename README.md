@@ -4,7 +4,8 @@ Insignia **device authorization** for the **Original Xbox**: show a **user code*
 
 **Production API host:** `https://auth.insigniastats.live`
 
----
+
+---NOTE THIS IS AN UNOFFICIAL LOGIN MOD NOT CREATED BY THE INSIGNIA TEAM.
 
 ## What’s in this repo
 
